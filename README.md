@@ -1,6 +1,8 @@
 # AI_Development_And_Impact
 This project analyzed AI's development and impact using three datasets: AI job market trends, public attitudes, and media sentiment over 30 years. Using advanced Excel and Power BI, the analysis revealed significant growth in AI-related job openings, especially in programming and data analysis. 
 
+Interactive Power BI Dashboard: https://datacolleges.education/development-and-impact-of-ai/ 
+
 (a) Interpret Analysis to Create Insights
 
 Having completed the data cleaning, summarization, analysis, and visualization in the Development Stage, the next step was to interpret these findings. I used Power BI to visualize trends and correlations across the datasets, focusing on key aspects of AI’s development, public attitudes, and media sentiment.
